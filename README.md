@@ -22,7 +22,7 @@ Todas las propuestas, con qué aportan y cómo repartirlas, están en **[ideas.m
 | | GitHub | Rol |
 |---|---|---|
 | Sergi Pascual | [@Serxav](https://github.com/Serxav) | Por definir |
-| Jan Rodrgiuez | [@P4NKK-TRYHARD(https://github.com/P4NKK-TRYHARD) | Por definir |
+| Jan Rodrgiuez | [@P4NKK-TRYHARD](https://github.com/P4NKK-TRYHARD) | Por definir |
 | — | — | Por definir |
 
 ## 🤝 Cómo trabajamos
