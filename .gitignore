@@ -1,0 +1,53 @@
+# Sistema
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+desktop.ini
+*~
+
+# Editores / IDEs
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.iml
+*.swp
+
+# Secretos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+npm-debug.log*
+dist/
+
+# Java / Kotlin / Android
+*.class
+build/
+.gradle/
+local.properties
+out/
+
+# Swift / Xcode
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.build/
+
+# Varios
+*.log
+*.sqlite
+*.db
+coverage/
