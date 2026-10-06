@@ -22,7 +22,7 @@ Cada idea lleva: qué es, por qué puede tener estrellas, qué aporta al CV, sta
 - 👥 **Reparto:** (1) lectura de hardware y batería, (2) disco, seguridad y MDM, (3) informe visual + web del proyecto.
 
 ### 2. `key-guard` — Guardián de gasto para API keys de IA
-**Qué es:** un proxy local muy ligero que se pone entre tus apps y las APIs de IA (Gemini, OpenAI, Claude…). Cuenta peticiones y tokens, avisa cuando te acercas al límite y **corta** antes de que te cobren. Permite dar "sub-claves" a otras personas (un hermano, un compañero) con un límite propio sin enseñarles la key real.
+**Qué es:** un proxy local muy ligero que se pone entre tus apps y las APIs de IA (Gemini, OpenAI, Claude…). Cuenta peticiones y tokens, avisa cuando te acercas al límite y **corta** antes de que te cobren. Permite dar "sub-claves" a otras personas (un compañero, un grupo de clase) con un límite propio sin enseñarles la key real.
 
 - ⭐ **Estrellas:** miedo universal a las facturas sorpresa de APIs; mucha gente compartiendo keys en proyectos de clase o hackathons.
 - 📄 **CV:** proxies, seguridad, gestión de credenciales, IA. Muy actual.
@@ -42,14 +42,14 @@ Cada idea lleva: qué es, por qué puede tener estrellas, qué aporta al CV, sta
 ## 🧠 Más ideas
 
 ### 4. Skills y plugins para agentes de código orientados a FP
-Colección de *skills* para Claude Code y otros agentes pensadas para estudiantes: "explícame este error de Java como a alguien de primero", "revisa mi práctica de bases de datos con la rúbrica", "genera tests para mi ejercicio de Kotlin". Encaja con lo que ya hacemos en `why-no-tools`.
+Colección de *skills* para Claude Code y otros agentes pensadas para estudiantes: "explícame este error de Java como a alguien de primero", "revisa mi práctica de bases de datos con la rúbrica", "genera tests para mi ejercicio de Kotlin".
 - ⭐ El ecosistema de agentes está creciendo y casi nada está enfocado a estudiantes.
 - 🛠️ Markdown + scripts, muy rápido de empezar.
 
 ### 5. `routeros-lint` — Revisor de configuraciones MikroTik
 Herramienta que lee un export de RouterOS y avisa de errores típicos y fallos de seguridad (servicios abiertos, usuario admin sin contraseña, firewall vacío, firmware viejo) y compara dos backups para ver qué ha cambiado.
 - ⭐ Comunidad MikroTik grande y técnica; hay pocas herramientas así abiertas.
-- 📄 Redes + seguridad + parsing. Aprovecha la experiencia con NetGuard.
+- 📄 Redes + seguridad + parsing.
 - 🛠️ Python, reglas en YAML, opcional web.
 
 ### 6. `netdoctor` — "¿Por qué no me va internet?" explicado en cristiano
@@ -68,11 +68,6 @@ Extensión de navegador que detecta webs de casino/apuestas y muestra el tiempo 
 - 📄 Muestra conocimiento del sector iGaming desde el lado ético.
 - 🛠️ JavaScript (WebExtensions), almacenamiento local, sin servidor.
 
-### 9. Atenea en abierto
-Publicar como proyecto conjunto una versión open source de la app de estudio que responde solo con tus apuntes y cita la fuente (con fichas de memoria).
-- ⭐ Las apps de estudio con IA tienen mucha demanda entre estudiantes.
-- 🛠️ Ya hay base hecha; el trabajo sería limpiarla, documentarla y hacerla instalable.
-
 ---
 
 ## 🗳️ Cómo decidir
@@ -89,7 +84,6 @@ Cada uno puntúa del 1 al 5 y sumamos:
 | 6. netdoctor | | | | |
 | 7. mac-setup-dam | | | | |
 | 8. Juego responsable | | | | |
-| 9. Atenea en abierto | | | | |
 
 ## 🚀 Para que dé estrellas (sea cual sea)
 - README cuidado con GIF/captura de lo que hace en los primeros 5 segundos.
