@@ -21,9 +21,9 @@ Todas las propuestas, con qué aportan y cómo repartirlas, están en **[ideas.m
 
 | | GitHub | Rol |
 |---|---|---|
-| Sergi Pascual | [@Serxav](https://github.com/Serxav) | Por definir |
-| Jan Rodrgiuez | [@P4NKK-TRYHARD](https://github.com/P4NKK-TRYHARD) | Por definir |
-| Pau Olivares | [@Pau-Dev-O](https://github.com/Pau-Dev-O) | Por definir |
+| Sergi Pascual | [@Serxav](https://github.com/Serxav) | Developer |
+| Jan Rodrgiuez | [@P4NKK-TRYHARD](https://github.com/P4NKK-TRYHARD) | Developer |
+| Pau Olivares | [@Pau-Dev-O](https://github.com/Pau-Dev-O) | Developer |
 
 ## 🤝 Cómo trabajamos
 
